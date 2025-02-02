@@ -4,21 +4,21 @@ Speed Bus Travel is a Python-based console application for managing bus ticket b
 
 # Features:
 
-Admin Registration & Login:
+✅ Admin Registration & Login:
 
-Register a new admin with a username and password.
+✅ Register a new admin with a username and password.
 
-Login with registered credentials.
+✅ Login with registered credentials.
 
-Passenger Registration & Ticket Booking:
+✅ Passenger Registration & Ticket Booking:
 
-Enter passenger details such as name, number of passengers, departure location, destination, and journey date.
+✅ Enter passenger details such as name, number of passengers, departure location, destination, and journey date.
 
-Choose seat numbers from available options (up to two seats per booking).
+✅ Choose seat numbers from available options (up to two seats per booking).
 
-Select a bus type (AC or Non-AC) and calculate the fare.
+✅ Select a bus type (AC or Non-AC) and calculate the fare.
 
-Store booking details in passengerData.csv.
+✅ Store booking details in passengerData.csv.
 
 # Ticket Display:
 
